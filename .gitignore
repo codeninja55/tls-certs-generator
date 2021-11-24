@@ -1,0 +1,8 @@
+## Jetbrains
+.idea/
+
+## VS Code
+.vscode/
+
+## Custom
+.env
